@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZmU2YWZhYTQtNjc1Mi00NzA5LWIxYTEtYWIxZDExODMxNjc3IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
 
-
+<img width="705" alt="Commodity Export Dashboard" src="https://github.com/user-attachments/assets/d3fc4efc-807c-4753-b295-2d840e1b401f">
 
 ## Problem Statement
 
@@ -78,6 +78,8 @@ Following inferences can be drawn from the dashboard:
 
 # Page 2 - Overview
 
+<img width="707" alt="Commodity Export Dashboard P2" src="https://github.com/user-attachments/assets/786a709a-d83c-4298-82e3-1df6f46fd600">
+
 Key Metrics:
     Total Quantity (MT): 1.87M metric tons
     Average Price (PKR): 33.43M PKR
@@ -89,6 +91,8 @@ Visual Representation:
     The map below shows Export Destinations around the world, with regions labeled by continent (North America, South America, Europe, Africa, Asia, Australia). Each country/region is colored to represent different export areas.
 
 # Page 3 - Detail
+
+<img width="705" alt="Commodity Export Dashboard P3" src="https://github.com/user-attachments/assets/3271cf09-0a2d-466c-a509-62e33f0f2bd6">
 
 Left Panel Filters:
 
